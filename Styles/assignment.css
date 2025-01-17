@@ -6,7 +6,7 @@
 }
 .top{
     font-size: 32px;
-    font-weight: bold;
+    font-weight: 600;
     
 }
 .header .top-sign{
@@ -37,7 +37,7 @@
 }
 .img-1{
     background-color: rgba(198, 228, 214, 1);
-    height: 300px;
+    
 }
 .div-1-1 .p-1{
     font-size: 24px;
