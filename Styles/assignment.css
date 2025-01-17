@@ -1,0 +1,269 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 160px ;
+   
+}
+.top{
+    font-size: 32px;
+    font-weight: bold;
+    
+}
+.header .top-sign{
+   text-decoration: none;
+   display: block;
+   padding: 20px 30px;
+   border-color: rgba(0, 106, 80, 1);
+   font-size: 16px;
+   font-weight: bold;
+   }
+.btn-1{
+   border-radius: 8px;
+    color: rgba(0, 106, 80, 1);
+    
+}
+.div-1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 60px 30px 60px;
+    background-color: rgba(198, 228, 214, 1);
+    margin: 10px 160px;
+    gap: 100px;
+    height: 500px;
+    border-radius: 8px;
+    
+}
+.img-1{
+    background-color: rgba(198, 228, 214, 1);
+    height: 300px;
+}
+.div-1-1 .p-1{
+    font-size: 24px;
+    color: rgba(14, 14, 14, 0.5);
+
+}
+.div-1-1 .p-2{
+    font-size: 40px;
+    font-weight: bold
+}
+.btn-2{
+    padding: 17px 34px 17px 34px;
+    background-color: rgba(0, 106, 80, 1);
+    font-weight: bold;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+.p-3{
+    font-size: 20px;
+    font-weight: bold;
+}
+.div-2{
+    padding: 10px 160px;
+}
+h1{
+    font-size: 40px;
+}
+.h-2{
+    font-size: 20;
+    font-weight: bold;
+}
+.div-3{
+    display: flex;
+    padding: 10px 160px;
+    gap: 40px;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.div-3-1{
+    padding: 32px;
+    background-color: rgba(84, 144, 245, 0.2);
+    border-radius: 16px;
+}
+.div-3-2{
+    padding: 32px;
+    background-color: rgba(198, 228, 214, 1);
+    border-radius: 16px;
+}
+.div-3-3{
+    padding: 32px;
+    background-color: rgba(247, 235, 207, 1);
+    border-radius: 16px;
+
+}
+.btn-3, .btn-4, .btn-5 {
+    padding: 15px 11px;
+    border-radius: 8px;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+}
+.btn-3{
+   background-color: rgba(84, 144, 245, 1);
+}
+.btn-4{
+    background-color: rgba(9, 161, 92, 1);
+}
+.btn-5{
+ background-color: rgba(255, 194, 57, 1);
+}
+.p-4, .p-5, .p-6, .p-7, .p-8, .p-9, .p-10{
+    font-size: 16px;
+    color: rgba(14, 14, 14, 0.7);
+}
+.sec-3{
+    padding: 10px 160px;
+
+}
+.quote-box{
+    background-image: url("/Styles/quote.png");
+    background-repeat: no-repeat;
+    background-size: 30px;
+}
+body{
+    background-color: rgba(241, 241, 243, 1);
+}
+.div-4-1{
+    padding: 10px 160px;
+    position: left;
+}
+.div-4-2{
+    display: flex;
+    gap: 50px;
+    margin: 10px 160px;
+    background-color: white;
+    padding: 20px 50px;
+    border-radius: 24px;
+    justify-content: space-around;
+    align-items: center;
+}
+.img-3{
+    border-radius: 24px;
+    
+}
+.p-f{
+    display: inline-block;
+    padding: 10px 20px 10px 0px;
+}
+.btn-6{
+    padding: 13px 26px;
+    border: none;
+    border-radius: 8px;
+    font-size: 18;
+    font-weight: 600;
+    background-color: rgba(0, 106, 80, 1);
+    color: white;
+}
+.div-4-3{
+    display: flex;
+    gap: 50px;
+    margin: 10px 160px;
+    background-color: white;
+    padding: 20px 50px;
+    border-radius: 24px;
+    justify-content: space-around;
+    align-items: center;
+}
+.div-5-1{
+    text-align: center;
+    padding: 10px 160px;
+}
+.div-5-2{
+    display: flex;
+    margin: 10px 160px;
+    justify-content: space-around;
+    padding: 40px;
+}
+.tk-btn{
+    padding: 50px;
+    width: 240px;
+    border-radius: 16px;
+    border: none;
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
+    }
+.tk-200{
+    background-color: rgba(198, 228, 214, 1);
+}
+.div-5-3{
+    margin: 10px 180px;
+    justify-content: center;
+}
+input{
+    align-items: center;
+    display: inline-block;
+    height: 64px;
+    width: 1000px;
+    border: none;
+    text-align: center;
+    margin: 10px 70px;
+}
+.div-5-4{
+    margin: 10px 160px;
+}
+.btn-done{
+    padding: 15px 35px;
+    align-items: center;
+    margin: 10px 342px;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    background-color: rgba(0, 106, 80, 1);
+    font-size: 18;
+    font-weight: 600;
+}
+.div-6-1, .div-6-2{
+    display: block;
+    text-align: center;
+}
+.para-6{
+   margin: 10px 160px;
+}
+.div-6-3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 160px;
+    padding: 10px 160px 10px 110px;
+   
+    
+}
+.div-6-3 .div-6-3-1 input{
+    margin: 10px 0px 10px 100px;
+    height: 56px;
+    width: 650px;
+    height: 55;
+    text-align: left;
+    padding: 0px 0px 0px 40px;
+    font-weight: 500;
+    border-radius: 8px;
+    
+
+}
+.div-6-3 .div-6-3-2 button{
+    padding: 10px 40px ;
+    height: 60px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border: none;
+    background-color: rgba(0, 106, 80, 1);
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
+}
+.div-6-4{
+    text-align: center;
+}
+.sec-6{
+    background-color: rgba(198, 228, 214, 1);
+   padding: 80px 100px 80px 100px;
+   margin: 60px 160px;
+   border-radius: 24px;
+}
+
+
+
